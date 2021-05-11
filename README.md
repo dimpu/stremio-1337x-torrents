@@ -11,5 +11,5 @@
 ![IT 2 streams](https://i.imgur.com/0xSQ3gE.png)
 
 ## Installation
-Install from the addon [homepage](https://stremio-addons-1337x-l89jextk5-dimpu.vercel.app/) or from within
+Install from the addon [homepage](https://stremio-addons-1337x.vercel.app) or from within
 the stremio addon manager: `Community Addons` > `Movies`.
